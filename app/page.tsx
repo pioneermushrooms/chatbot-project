@@ -7,8 +7,8 @@ export default function Page() {
         My Portfolio
       </h1>
       <p className="mb-4">
-        {`Christopher Schuldt is a senior technician and business owner with
-        expertise in mission-critical operations, electrical and mechanical
+        {`Christopher Schuldt is a senior technician, business owner, and veteran 
+        with expertise in mission-critical operations, electrical and mechanical
         systems, and AI/ML applications. Currently leading data center
         operations at AWS, he optimizes redundancy, automation, and technical
         processes while overseeing 40MW critical facilities.`}
@@ -18,12 +18,12 @@ export default function Page() {
       <h2 className="mt-10 text-xl font-bold">Tech Stack & Tools</h2>
       <div className="flex flex-wrap gap-4 mt-4">
         {[
-          "Next.js",
+          "Electrical Troubleshooting",
           "Python",
-          "AI/ML",
+          "Generative AI",
           "AWS",
-          "Tailwind CSS",
-          "LangChain",
+          "Technical Writing",
+          "Mission Critical Operations",
           "Docker",
           "GitHub",
           "Vercel"
