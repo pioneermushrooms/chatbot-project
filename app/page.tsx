@@ -1,3 +1,5 @@
+import { BlogPosts } from 'app/components/posts';
+
 export default function Page() {
   return (
     <section>
@@ -39,5 +41,5 @@ export default function Page() {
         <BlogPosts />
       </div>
     </section>
-  )
+  );
 }
